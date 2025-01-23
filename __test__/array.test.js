@@ -1,5 +1,5 @@
-const addToArray = require('../arrays').addToArray;
-const removeElement = require('../arrays').removeElement;
+const addToArray = require('../utils/arrays').addToArray;
+const removeElement = require('../utils/arrays').removeElement;
 
 test('adds 6 to array', () => {
     const array = [1, 2, 3, 4, 5];

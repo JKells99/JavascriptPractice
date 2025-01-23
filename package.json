@@ -1,7 +1,7 @@
 {
   "name": "javascriptpractice",
   "version": "1.0.0",
-  "main": "sum.js",
+  "main": "utils/sum.js",
   "scripts": {
     "test": "jest"
   },

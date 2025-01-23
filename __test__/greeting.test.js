@@ -1,4 +1,4 @@
-const greeting = require('../greeting');
+const greeting = require('../utils/greeting');
 
 test('greeting test', () => {
 
