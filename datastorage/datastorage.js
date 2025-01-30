@@ -32,5 +32,7 @@ sampleData.forEach(obj => {
 
 const fetchedUser = datastorage.fetchData(1)
 
+console.log(fetchedUser);
+
 
 module.exports = Datastorage;
